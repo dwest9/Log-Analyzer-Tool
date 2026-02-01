@@ -1,0 +1,7 @@
+[INFO] Application started
+[WARNING] Low disk space
+[ERROR] Database connection failed
+[ERROR] Database connection failed
+[INFO] User login successful
+[ERROR] Timeout while contacting server
+Invalid log entry here
